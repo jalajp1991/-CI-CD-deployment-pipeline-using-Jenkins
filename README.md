@@ -1,6 +1,7 @@
 # Demonstration for CI/CD deployment pipeline using Jenkins
 
-`Learning Resources for DevOps, SRE, Cloud & Engineering Management`
+
+
 
 
 **Deliverables**:
